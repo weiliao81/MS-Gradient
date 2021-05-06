@@ -1,14 +1,14 @@
 # MS-Gradient
-Cortical patterning of morphometric similarity gradient .
+Cortical patterning of morphometric similarity gradient.
 
 Welcome to the MS-Gradient package; a companion to our article "Cortical patterning of morphometric similarity gradient reveals diverged hierarchical organization in sensory-motor cortices".
 
 
 # Software dependencies
-FreeSurfer (tested with 6.0 - https://surfer.nmr.mgh.harvard.edu/) 
-FSL (tested with 5.0.9 - https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) 
+FreeSurfer (tested with 6.0 - https://surfer.nmr.mgh.harvard.edu/)
+FSL (tested with 5.0.9 - https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 Python (tested with 3.6) 
-MATLAB (tested on R2018a - https://www.mathworks.com/products/matlab.html) 
+MATLAB (tested on R2018a - https://www.mathworks.com/products/matlab.html)
 
 
 # Preprocessing
