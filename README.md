@@ -1,8 +1,6 @@
 # MS-Gradient
-Cortical patterning of morphometric similarity gradient
+Cortical patterning of morphometric similarity gradient .
 
-
-# Morphometric Similarity (MS) Gradient analysis
 Welcome to the MS-Gradient package; a companion to our article "Cortical patterning of morphometric similarity gradient reveals diverged hierarchical organization in sensory-motor cortices".
 
 
