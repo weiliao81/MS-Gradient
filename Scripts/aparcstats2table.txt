@@ -1,8 +1,0 @@
-export SUBJECTS_DIR=/home/baker/MorphometricSimilarity/Recon_Result
-aparcstats2table --hemi lh --subjects sub001 sub002 sub00X --parc DK1533.aparc --meas thickness --tablefile /MorphometricSimilarity/SurfaceFeatures/lh.DK1533_thickness.txt
-aparcstats2table --hemi lh --subjects sub001 sub002 sub00X --parc DK1533.aparc --meas volume --tablefile /MorphometricSimilarity/SurfaceFeatures/lh.DK1533_volume.txt
-aparcstats2table --hemi lh --subjects sub001 sub002 sub00X --parc DK1533.aparc --meas area --tablefile /MorphometricSimilarity/SurfaceFeatures/lh.DK1533_area.txt
-aparcstats2table --hemi lh --subjects sub001 sub002 sub00X --parc DK1533.aparc --meas meancurv --tablefile /MorphometricSimilarity/SurfaceFeatures/lh.DK1533_meancurv.txt
-aparcstats2table --hemi lh --subjects sub001 sub002 sub00X --parc DK1533.aparc --meas gauscurv --tablefile /MorphometricSimilarity/SurfaceFeatures/lh.DK1533_gauscurv.txt
-
-
