@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  8 19:12:58 2021
-
-@author: baker
-"""
-
-
 import sys
 import math
 import os, time
