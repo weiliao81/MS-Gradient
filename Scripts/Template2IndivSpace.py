@@ -1,3 +1,12 @@
+#####################################################################
+### 
+### Transform the DK1533 template to each individual surface space
+### T1_sublist.txt includes all the processing subjects' ID 
+### using FreeSurfer command "mri_surf2surf"
+### Please cite: Yang Siqi, et al. Cortical patterning of morphometric similarity gradient reveals diverged hierarchical organization in sensory-motor cortices
+###
+#####################################################################
+
 import sys
 import math
 import os, time
