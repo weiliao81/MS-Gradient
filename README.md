@@ -9,7 +9,7 @@ FreeSurfer (tested with 6.0 - https://surfer.nmr.mgh.harvard.edu/)
 FSL (tested with 5.0.9 - https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 Python (tested with 3.6) 
 MATLAB (tested on R2018a - https://www.mathworks.com/products/matlab.html)
-
+R (tested with R x64 3.5.2)
 
 # Preprocessing
 Prior to using this package, it is expected that the individual scans have undergone recon-all processing with FreeSurfer.
