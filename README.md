@@ -17,4 +17,4 @@ Scripts to conduct diffusion map embedding in MATLAB could be found in https://g
 
 
 # Citing this resource
-If you use these data, please cite our article: " Cortical patterning of morphometric similarity gradient reveals diverged hierarchical organization in sensory-motor cortices " 
+If you use these data, please cite our article: Siqi Yang, Konrad Wagstyl, Yao Meng, Xiaopeng Zhao, Jiao Li, Peng Zhong, Bing Li, Yun-Shuang Fan, Huafu Chen*, Wei Liao*. Cortical patterning of morphometric similarity gradient reveals diverged hierarchical organization in sensory-motor cortices. Cell Reports, 2021, 36(8): 109582. DOI: 10.1016/j.celrep.2021.109582
